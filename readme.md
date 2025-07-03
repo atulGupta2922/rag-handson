@@ -7,7 +7,9 @@ To run the notebooks in this project, follow these steps:
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:atulGupta2922/rag-handson.git
+    ```
+    ```bash
     cd rag-handson
     ```
 
